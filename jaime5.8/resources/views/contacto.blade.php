@@ -19,7 +19,7 @@
 		<div class="row">
 			<div class="logo">
 					<div class="col-sm-12">
-						<a href="inicio"><img src="Imagenes/logonuevosinsombra.png"></a>
+						<a href="inicio"><img src="/Imagenes/logonuevosinsombra.png"></a>
 					</div>
 			</div>
 		</div>
@@ -76,7 +76,7 @@
 		<div class="row">
 			<div class="banner">
 					<div class="col-sm-12">
-						<a href="inicio"><img src="CSS/Imagenes/banner.png"></a>
+						<a href="inicio"><img src="/Imagenes/banner.png"></a>
 					</div>
 			</div>
 		</div>
