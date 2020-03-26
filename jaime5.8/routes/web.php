@@ -20,3 +20,7 @@ Route::get('/', function () {
 Route::get('/inicio', function () {
     return view('index');
 });
+
+Route::get('/preguntasFrecuentes', function () {
+    return view('fqa');
+});
