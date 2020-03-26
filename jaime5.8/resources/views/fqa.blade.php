@@ -71,7 +71,16 @@
 
 	<!-----------------MENU----------------------------->
 
-
+	<!-----------------BANNER----------------------------->
+	<div class="container">
+		<div class="row">
+			<div class="banner">
+					<div class="col-sm-12">
+						<a href="inicio"><img src="/Imagenes/banner.png"></a>
+					</div>
+			</div>
+		</div>
+	</div>
 
 	<!-----------------PREGUNTAS FRECUENTES----------------------------->
 		<section class="faq">
