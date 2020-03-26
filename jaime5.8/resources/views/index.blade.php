@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js" =""></script>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-	<link rel="stylesheet" type="text/css" href="Imagenes/estilos.css">
+	<link rel="stylesheet" type="text/css" href="CSS/estilos.css">
 	<link href="https://fonts.googleapis.com/css?family=Amatic+SC&display=swap" rel="stylesheet">
 
 
@@ -126,7 +126,7 @@
 					</div>
 
 					<div class="col-md-3 col-sm-12">
-						<a href="productos/bonappetit.html"><img src="/Imagenes/cocina1 (1).jpg"></a>
+						<a href="productos/bonappetit.html"><img src="/Imagenes/cocina1.jpg"></a>
 						<h3><a href="productos/bonappetit.html">Bon Appetit</a></h3>
 						<p>$585.00</p>
 					</div>
