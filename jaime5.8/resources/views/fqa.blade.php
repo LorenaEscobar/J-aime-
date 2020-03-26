@@ -19,7 +19,7 @@
 		<div class="row">
 			<div class="logo">
 					<div class="col-sm-12">
-						<a href="index.html"><img src="/Imagenes/logonuevosinsombra.png"></a>
+						<a href="inicio"><img src="/Imagenes/logonuevosinsombra.png"></a>
 					</div>
 			</div>
 		</div>
@@ -39,7 +39,7 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="../index.html">Inicio</a>
+        <a class="nav-link" href="../inicio">Inicio</a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -57,7 +57,7 @@
         <a class="nav-link" href="#">FAQ</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="../contacto.html">Contacto</a>
+        <a class="nav-link" href="../contacto">Contacto</a>
       </li>
 
     </ul>
