@@ -19,7 +19,7 @@
 		<div class="row">
 			<div class="logo">
 					<div class="col-sm-12">
-						<a href="index.html"><img src="/Imagenes/logonuevosinsombra.png"></a>
+						<a href="index.html"><img src="Imagenes/logonuevosinsombra.png"></a>
 					</div>
 			</div>
 		</div>
@@ -30,7 +30,7 @@
 		<div class="container menu">
 		<nav class="navbar navbar-expand-lg navbar-light bg-white">
 			<!-------------------INICIO SESION---------------------------->
-  			<a href="login-out/logIn.php"><i class="fas fa-users carrito"></i></a>
+  			<a href=""><i class="fas fa-users carrito"></i></a>
   			<!-------------------INICIO SESION---------------------------->
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -54,7 +54,7 @@
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/preguntasFrecuentes">FAQ</a>
+        <a class="nav-link" href="fqa/preguntasFrecuentes.html">FAQ</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="contacto.html">Contacto</a>
@@ -76,7 +76,7 @@
 		<div class="row">
 			<div class="banner">
 					<div class="col-sm-12">
-						<a href="index.html"><img src="/Imagenes/banner.png"></a>
+						<a href="index.html"><img src="CSS/Imagenes/banner.png"></a>
 					</div>
 			</div>
 		</div>
@@ -84,71 +84,21 @@
 	<!-----------------BANNER----------------------------->
 
 
-	<!-----------------NUEVOS MODELOS----------------------------->
-	<section class="catalogo">
-	<div class="container productos">
-		<div class="row">
+	<!-----------------CONTACTO----------------------------->
+		<section class="contacto">
+			<div class="container">
+			<h1>CONTACTO</h1>
+			<hr>
 
-					<div class="col-md-3 col-sm-12">
-						<a href="productos/mandala03.html"><img src="/Imagenes/zen3.jpg"></a>
-						<h3><a href="productos/mandala03.html">Mandala 03</a></h3>
-						<p>$560.00</p>
-					</div>
-
-					<div class="col-md-3 col-sm-12">
-						<a href="productos/guitarra02.html"><img src="/Imagenes/musica5.jpg"></a>
-						<h3><a href="productos/guitarra02.html">Guitarra 02</a></h3>
-						<p>$810.00</p>
-					</div>
-
-					<div class="col-md-3 col-sm-12">
-						<a href="productos/frases01.html"><img src="/Imagenes/frases1.jpg"></a>
-						<h3><a href="productos/frases01.html">Frase 01</a></h3>
-						<p>$475.00</p>
-					</div>
-
-					<div class="col-md-3 col-sm-12">
-						<a href="productos/infantil02.html"><img src="/Imagenes/infantil4.jpg"></a>
-						<h3><a href="productos/infantil02.html">Infantil 02</a></h3>
-						<p>$635.00</p>
-					</div>
-
+				<h3>Mitre 170, Rosario, Sante Fe. CP 2000</h3>
+				<h3>123-456-7890  /  jaimevinilos@hotmail.com</h3>
+			<hr>
+			<br>
 			</div>
-		</div>
+		</section>
 
-		<div class="container productos">
-		<div class="row">
 
-					<div class="col-md-3 col-sm-12">
-						<a href="productos/condimentos.html"><img src="/Imagenes/cocina4.jpg"></a>
-						<h3><a href="productos/condimentos.html">Condimentos</a></h3>
-						<p>$505.00</p>
-					</div>
-
-					<div class="col-md-3 col-sm-12">
-						<a href="productos/bonappetit.html"><img src="/Imagenes/cocina1.jpg"></a>
-						<h3><a href="productos/bonappetit.html">Bon Appetit</a></h3>
-						<p>$585.00</p>
-					</div>
-
-					<div class="col-md-3 col-sm-12">
-						<a href="productos/Bon Appetit!.html"><img src="/Imagenes/cocina5.jpg"></a>
-						<h3><a href="productos/Bon Appetit!.html">Bon Appetit!</a></h3>
-						<p>$480.00</p>
-					</div>
-
-					<div class="col-md-3 col-sm-12">
-						<a href="productos/elartedecocinar.html"><img src="/Imagenes/cocina6.jpg"></a>
-						<h3><a href="productos/elartedecocinar.html">El arte de cocinar</a></h3>
-						<p>$530.00</p>
-					</div>
-
-			</div>
-		</div>
-
-	</section>
-
-	<!-----------------NUEVOS MODELOS----------------------------->
+	<!-----------------CONTACTO----------------------------->
 
 	<!-----------------FOOTER----------------------------->
 	<section class="footer">

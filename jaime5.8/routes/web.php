@@ -24,3 +24,7 @@ Route::get('/inicio', function () {
 Route::get('/preguntasFrecuentes', function () {
     return view('fqa');
 });
+
+Route::get('/contacto', function () {
+    return view('contacto');
+});
