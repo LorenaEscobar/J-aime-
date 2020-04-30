@@ -85,6 +85,7 @@
 
 
 	<!-----------------NUEVOS MODELOS----------------------------->
+	<h1>Nuevos Modelos</h1>
 	<section class="catalogo">
 	<div class="container productos">
 		<div class="row">
@@ -92,55 +93,55 @@
 					<div class="col-md-3 col-sm-12">
 						<a href="productos/mandala03.html"><img src="/Imagenes/zen3.jpg"></a>
 						<h3><a href="productos/mandala03.html">Mandala 03</a></h3>
-						<p>$560.00</p>
+						
 					</div>
 
 					<div class="col-md-3 col-sm-12">
 						<a href="productos/guitarra02.html"><img src="/Imagenes/musica5.jpg"></a>
 						<h3><a href="productos/guitarra02.html">Guitarra 02</a></h3>
-						<p>$810.00</p>
+						
 					</div>
 
 					<div class="col-md-3 col-sm-12">
 						<a href="productos/frases01.html"><img src="/Imagenes/frases1.jpg"></a>
 						<h3><a href="productos/frases01.html">Frase 01</a></h3>
-						<p>$475.00</p>
+						
 					</div>
 
 					<div class="col-md-3 col-sm-12">
 						<a href="productos/infantil02.html"><img src="/Imagenes/infantil4.jpg"></a>
 						<h3><a href="productos/infantil02.html">Infantil 02</a></h3>
-						<p>$635.00</p>
+						
 					</div>
 
 			</div>
 		</div>
-
+<h1>Mas Vendidos</h1>
 		<div class="container productos">
 		<div class="row">
 
 					<div class="col-md-3 col-sm-12">
 						<a href="productos/condimentos.html"><img src="/Imagenes/cocina4.jpg"></a>
 						<h3><a href="productos/condimentos.html">Condimentos</a></h3>
-						<p>$505.00</p>
+						
 					</div>
 
 					<div class="col-md-3 col-sm-12">
 						<a href="productos/bonappetit.html"><img src="/Imagenes/cocina1.jpg"></a>
 						<h3><a href="productos/bonappetit.html">Bon Appetit</a></h3>
-						<p>$585.00</p>
+						
 					</div>
 
 					<div class="col-md-3 col-sm-12">
 						<a href="productos/Bon Appetit!.html"><img src="/Imagenes/cocina5.jpg"></a>
 						<h3><a href="productos/Bon Appetit!.html">Bon Appetit!</a></h3>
-						<p>$480.00</p>
+						
 					</div>
 
 					<div class="col-md-3 col-sm-12">
 						<a href="productos/elartedecocinar.html"><img src="/Imagenes/cocina6.jpg"></a>
 						<h3><a href="productos/elartedecocinar.html">El arte de cocinar</a></h3>
-						<p>$530.00</p>
+						
 					</div>
 
 			</div>
