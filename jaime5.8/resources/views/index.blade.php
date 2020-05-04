@@ -8,8 +8,8 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 	<link rel="stylesheet" type="text/css" href="CSS/estilos.css">
 	<link href="https://fonts.googleapis.com/css?family=Amatic+SC&display=swap" rel="stylesheet">
-
-
+	<link href = "https://fonts.googleapis.com/css2? family = Jost: ital, wght @ 0,500; 1,600 & display = swap" rel = "stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Muli&display=swap" rel="stylesheet">
 </head>
 <body>
 
@@ -85,8 +85,8 @@
 
 
 	<!-----------------NUEVOS MODELOS----------------------------->
-	<h1>Nuevos Modelos</h1>
-	<section class="catalogo">
+	<h1>NUEVOS MODELOS</h1>  <!-- lo cambiamos -->
+ 	<section class="catalogo">
 	<div class="container productos">
 		<div class="row">
 
@@ -116,7 +116,7 @@
 
 			</div>
 		</div>
-<h1>Mas Vendidos</h1>
+<h1>MAS VENDIDOS</h1> <!-- lo cambiamos -->
 		<div class="container productos">
 		<div class="row">
 

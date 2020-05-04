@@ -62,7 +62,7 @@ hr {
 }
 
 h1 {
-	font-family: 'Amatic SC', cursive;
+	font-family: 'Jost', sans-serif; /*lo cambiamos*/
 	text-align: center;
 	align-content: center;
 	margin-top: 15px;
@@ -133,7 +133,7 @@ a:hover {
 }
 
 .faq h1, h2, p {
-	font-family: 'Amatic SC', cursive;
+	font-family: 'Jost', sans-serif;
 	text-align: center;
 	padding: 10px;
 	margin: 10px;
