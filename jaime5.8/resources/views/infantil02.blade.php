@@ -8,10 +8,9 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 	<link rel="stylesheet" type="text/css" href="CSS/estilos.css">
 	<link href="https://fonts.googleapis.com/css?family=Amatic+SC&display=swap" rel="stylesheet">
-	<link href = "https://fonts.googleapis.com/css2? family = Jost: ital, wght @ 0,500; 1,600 & display = swap" rel = "stylesheet">
-	<link href="https://fonts.googleapis.com/css2?family=Muli&display=swap" rel="stylesheet">
+	<link href = "https://fonts.googleapis.com/css2? family = Jost: ital, wght @ 0,500; 1,600 & display = swap" rel = "stylesheet"> <!-- lo cambiamos -->
+	<link href="https://fonts.googleapis.com/css2?family=Muli&display=swap" rel="stylesheet"> <!-- lo cambiamos -->
 	<link href="https://fonts.googleapis.com/css2?family=Reem+Kufi&display=swap" rel="stylesheet">
-	
 </head>
 <body>
 
@@ -32,7 +31,7 @@
 		<div class="container menu">
 		<nav class="navbar navbar-expand-lg navbar-light bg-white">
 			<!-------------------INICIO SESION---------------------------->
-  			<a href="login-out/logIn.php"><i class="fas fa-users carrito"></i></a>
+  			<a href="../login-out/logIn.php"><i class="fas fa-users carrito"></i></a>
   			<!-------------------INICIO SESION---------------------------->
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -41,25 +40,25 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="inicio">Inicio</a>
+        <a class="nav-link" href="../inicio">Inicio</a>
       </li>
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Categorías
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="secciones/cocina.php">Cocina</a>
-          <a class="dropdown-item" href="secciones/infantil.php">Infantil</a>
-          <a class="dropdown-item" href="secciones/frases.php">Frases</a>
-          <a class="dropdown-item" href="secciones/zen.php">Zen</a>
-          <a class="dropdown-item" href="secciones/musica.php">Música</a>
+          <a class="dropdown-item" href="../secciones/cocina.php">Cocina</a>
+          <a class="dropdown-item" href="../secciones/infantil.php">Infantil</a>
+          <a class="dropdown-item" href="../secciones/frases.php">Frases</a>
+          <a class="dropdown-item" href="../secciones/zen.php">Zen</a>
+          <a class="dropdown-item" href="../secciones/musica.php">Música</a>
         </div>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/preguntasFrecuentes">FAQ</a>
+        <a class="nav-link" href="#">FAQ</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="contacto">Contacto</a>
+        <a class="nav-link" href="../contacto">Contacto</a>
       </li>
 
     </ul>
@@ -73,85 +72,35 @@
 
 	<!-----------------MENU----------------------------->
 
-	<!-----------------BANNER----------------------------->
-	<div class="container">
+		<!-----------------BANNER----------------------------->
+
+
+        <div class="container">
 		<div class="row">
-			<div class="banner">
-					<div class="col-sm-12">
-						<a href="inicio"><img src="/Imagenes/banner.png"></a>
+			<div class="producto d-flex justify-content-around d-flex align-items-center">
+					<div class="col-md-6 col-sm-12">
+						<img src="/Imagenes/infantil4.jpg" style="width:100%;">
+					</div>
+					<div class="col-md-6 col-sm-12">
+						<h3 class="delproducto">Infantil 02</h3>
+						<br>
+						<h4 class="delproducto1">SKU: 0004</h4>
+						<br>
+						<h3 class="delproducto">$635</h3>
+						<br>
+						<h4 class="delproducto1">Cantidad:</h4>
+						<input type="number" class="formcantidad" name="cantidad" value="1">
+						<br>
+						<input type="button" class="boton" name="agregar al carrito" value="Agregar al carrito">
+						<br>
+						<h3 class="delproducto">Vinilos Decorativos</h3>
+						<br>
+						<h4 class="delproducto1">Vinilos para pared con diseño original ideal para decorar cualquier estancia de tu casa, ya sea un dormitorio infantil, tu habitación o un espacio común como el salón.</h4>
 					</div>
 			</div>
 		</div>
 	</div>
-	<!-----------------BANNER----------------------------->
 
-
-	<!-----------------NUEVOS MODELOS----------------------------->
-	<h1>Nuevos Modelos</h1>  <!-- lo cambiamos -->
- 	<section class="catalogo">
-	<div class="container productos">
-		<div class="row">
-
-					<div class="col-md-3 col-sm-12">
-						<a href="/mandala03"><img src="/Imagenes/zen3.jpg"></a>
-						<h3><a href="productos/mandala03.html">Mandala 03</a></h3>
-						
-					</div>
-
-					<div class="col-md-3 col-sm-12">
-						<a href="/guitarra02"><img src="/Imagenes/musica5.jpg"></a>
-						<h3><a href="productos/guitarra02.html">Guitarra 02</a></h3>
-						
-					</div>
-
-					<div class="col-md-3 col-sm-12">
-						<a href="/frase01"><img src="/Imagenes/frases1.jpg"></a>
-						<h3><a href="productos/frases01.html">Frase 01</a></h3>
-						
-					</div>
-
-					<div class="col-md-3 col-sm-12">
-						<a href="/infantil02"><img src="/Imagenes/infantil4.jpg"></a>
-						<h3><a href="productos/infantil02.html">Infantil 02</a></h3>
-						
-					</div>
-
-			</div>
-		</div>
-<h1>Mas Vendidos</h1> <!-- lo cambiamos -->
-		<div class="container productos">
-		<div class="row">
-
-					<div class="col-md-3 col-sm-12">
-						<a href="/condimentos"><img src="/Imagenes/cocina4.jpg"></a>
-						<h3><a href="productos/condimentos.html">Condimentos</a></h3>
-						
-					</div>
-
-					<div class="col-md-3 col-sm-12">
-						<a href="/bonAppetit"><img src="/Imagenes/cocina1.jpg"></a>
-						<h3><a href="productos/bonappetit.html">Bon Appetit</a></h3>
-						
-					</div>
-
-					<div class="col-md-3 col-sm-12">
-						<a href="/bonAppetit!"><img src="/Imagenes/cocina5.jpg"></a>
-						<h3><a href="productos/Bon Appetit!.html">Bon Appetit!</a></h3>
-						
-					</div>
-
-					<div class="col-md-3 col-sm-12">
-						<a href="/elartedecocinar"><img src="/Imagenes/cocina6.jpg"></a>
-						<h3><a href="productos/elartedecocinar.html">El arte de cocinar</a></h3>
-						
-					</div>
-
-			</div>
-		</div>
-
-	</section>
-
-	<!-----------------NUEVOS MODELOS----------------------------->
 
 	<!-----------------FOOTER----------------------------->
 	<section class="footer">

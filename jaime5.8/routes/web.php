@@ -49,3 +49,20 @@ Route::get('/bonAppetit!', function () {
 Route::get('/elartedecocinar', function () {
     return view('/elartedecocinar');
 });
+
+Route::get('/mandala03', function () {
+    return view('/mandala03');
+});
+
+Route::get('/guitarra02', function () {
+    return view('/guitarra02');
+});
+
+
+Route::get('/frase01', function () {
+    return view('/frase01');
+});
+
+Route::get('/infantil02', function () {
+    return view('/infantil02');
+});
