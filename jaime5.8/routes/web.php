@@ -45,3 +45,7 @@ Route::get('/condimentos', function () {
 Route::get('/bonAppetit!', function () {
     return view('/bonAppetit!');
 });
+
+Route::get('/elartedecocinar', function () {
+    return view('/elartedecocinar');
+});

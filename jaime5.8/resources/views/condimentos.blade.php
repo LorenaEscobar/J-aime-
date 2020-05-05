@@ -78,7 +78,7 @@
 		<div class="row">
 			<div class="producto d-flex justify-content-around d-flex align-items-center">
 					<div class="col-md-6 col-sm-12">
-						<img src="../css/imagenes/cocina4.jpg" style="width:100%;">
+						<img src="/Imagenes/cocina4.jpg" style="width:100%;">
 					</div>
 					<div class="col-md-6 col-sm-12">
 						<h3 class="delproducto">Condimentos</h3>
