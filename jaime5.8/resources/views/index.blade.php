@@ -10,6 +10,8 @@
 	<link href="https://fonts.googleapis.com/css?family=Amatic+SC&display=swap" rel="stylesheet">
 	<link href = "https://fonts.googleapis.com/css2? family = Jost: ital, wght @ 0,500; 1,600 & display = swap" rel = "stylesheet">
 	<link href="https://fonts.googleapis.com/css2?family=Muli&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Reem+Kufi&display=swap" rel="stylesheet">
+	
 </head>
 <body>
 
@@ -85,7 +87,7 @@
 
 
 	<!-----------------NUEVOS MODELOS----------------------------->
-	<h1>NUEVOS MODELOS</h1>  <!-- lo cambiamos -->
+	<h1>Nuevos Modelos</h1>  <!-- lo cambiamos -->
  	<section class="catalogo">
 	<div class="container productos">
 		<div class="row">
@@ -116,7 +118,7 @@
 
 			</div>
 		</div>
-<h1>MAS VENDIDOS</h1> <!-- lo cambiamos -->
+<h1>Mas Vendidos</h1> <!-- lo cambiamos -->
 		<div class="container productos">
 		<div class="row">
 

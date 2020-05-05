@@ -33,7 +33,7 @@ body {
 	color: black;
 	background-color: #f4f4f4;
 	margin: 5px;
-	font-family: 'Amatic SC', cursive;
+	font-family: 'Reem Kufi', sans-serif;
 	font-size: 20px;
 }
 
@@ -42,7 +42,7 @@ body {
 }
 
 .dropdown-item {
-	font-family: 'Amatic SC', cursive;
+	font-family: 'Reem Kufi', sans-serif;
 	font-size: 20px;
 }
 
@@ -52,7 +52,7 @@ body {
 
 hr {
 	border-top: 3px solid black;
-	margin: 0;
+	margin:0;
 }
 
 .container .banner img {
@@ -62,7 +62,7 @@ hr {
 }
 
 h1 {
-	font-family: 'Jost', sans-serif; /*lo cambiamos*/
+	font-family: 'Reem Kufi', sans-serif; /*lo cambiamos*/
 	text-align: center;
 	align-content: center;
 	margin-top: 15px;
@@ -88,7 +88,7 @@ h1 {
 }
 
 h3 {
-	font-family: 'Amatic SC', cursive;
+	font-family: 'Reem Kufi', sans-serif;
 	color: black;
 	text-align: center;
 	margin: 5px;
@@ -101,12 +101,12 @@ h3.delproducto {
 }
 
 h4.delproducto1 {
-	font-family: 'Amatic SC', cursive;
+	font-family: 'Muli', sans-serif;
 	color: grey;
 }
 
 p{
-	font-family: 'Amatic SC', cursive;
+	font-family: 'Muli', sans-serif;
 	color: black;
 	text-align: center;
 	margin: 5px;
@@ -133,9 +133,9 @@ a:hover {
 }
 
 .faq h1, h2, p {
-	font-family: 'Jost', sans-serif;
+	font-family: 'Reem Kufi', sans-serif;
 	text-align: center;
-	padding: 10px;
+	padding: 2px;
 	margin: 10px;
 }
 

@@ -10,7 +10,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Amatic+SC&display=swap" rel="stylesheet">
 	<link href = "https://fonts.googleapis.com/css2? family = Jost: ital, wght @ 0,500; 1,600 & display = swap" rel = "stylesheet"> <!-- lo cambiamos -->
 	<link href="https://fonts.googleapis.com/css2?family=Muli&display=swap" rel="stylesheet"> <!-- lo cambiamos -->
-
+	<link href="https://fonts.googleapis.com/css2?family=Reem+Kufi&display=swap" rel="stylesheet">
 </head>
 <body>
 
@@ -88,20 +88,21 @@
 			<div class="container">
 			<h1>FAQ</h1>
 			<hr>
-				<h2><b>¿Es fácil de colocar?</b></h2>
+			<br>
+				<h3><b>¿Es fácil de colocar?</b></h3>
 				<p>Es muy fácil de colocar y con el vinilo enviamos un instructivo paso a paso, cualquier duda nos podés preguntar.</p>
 
-				<h2><b>¿Dónde se puede colocar el vinilo?</b></h2>
+				<h3><b>¿Dónde se puede colocar el vinilo?</b></h3>
 				<p>Lo podés colocar sobre cualquier superficie limpia, lisa y seca para conseguir una mayor duración del vinilo.
 					Quedan muy bien sobre paredes, vidrios, mamparas, espejos, ventanas, vidrieras, heladeras, puertas, muebles, etc.</p>
 
-				<h2><b>¿Se puede quitar el vinilo y aplicar en otro lugar?</b></h2>
+				<h3><b>¿Se puede quitar el vinilo y aplicar en otro lugar?</b></h3>
 				<p>No, una vez colocado, si lo despegás el vinilo perderá su adherencia, así que antes de colocarlo presentalo sobre la superficie para ver previamente la posición que más te gusta.</p>
 
-				<h2><b>¿Cuánto dura?</b></h2>
+				<h3><b>¿Cuánto dura?</b></h3>
 				<p>Una vez pegado su durabilidad es ilimitada en interiores y en el caso de su colocación en exteriores, el color puede verse afectado pasado un plazo de aproximadamente 3 a 7 años. Siempre y cuando sea colocado por un profesional.</p>
 
-				<h2><b>¿Cómo se quita? </b></h2>
+				<h3><b>¿Cómo se quita? </b></h3>
 				<p>Simplemente despegá una punta y tirá a 90 grados de la pared. Si la pared no estuviera en condiciones es posible que salte la pintura debido al adhesivo. Podés ayudarte aplicando calor con un secador de pelo para lograr aflojar el pegamento.</p>
             <hr>
               
