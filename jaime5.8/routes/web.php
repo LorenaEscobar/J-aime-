@@ -31,3 +31,17 @@ Route::get('/contacto', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+
+Route::get('/bonAppetit', function () {
+    return view('bonAppetit');
+});
+
+
+Route::get('/condimentos', function () {
+    return view('condimentos');
+});
+
+Route::get('/bonAppetit!', function () {
+    return view('/bonAppetit!');
+});
