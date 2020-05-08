@@ -48,11 +48,11 @@
           Categorías
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="secciones/cocina.php">Cocina</a>
-          <a class="dropdown-item" href="secciones/infantil.php">Infantil</a>
-          <a class="dropdown-item" href="secciones/frases.php">Frases</a>
-          <a class="dropdown-item" href="secciones/zen.php">Zen</a>
-          <a class="dropdown-item" href="secciones/musica.php">Música</a>
+          <a class="dropdown-item" href="/cocina">Cocina</a>
+          <a class="dropdown-item" href="/infantil">Infantil</a>
+          <a class="dropdown-item" href="/frases">Frases</a>
+          <a class="dropdown-item" href="/zen">Zen</a>
+          <a class="dropdown-item" href="/musica">Música</a>
         </div>
       </li>
       <li class="nav-item">

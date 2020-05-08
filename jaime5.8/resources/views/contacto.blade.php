@@ -48,11 +48,11 @@
           Categorías
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="secciones/cocina.php">Cocina</a>
-          <a class="dropdown-item" href="secciones/infantil.php">Infantil</a>
-          <a class="dropdown-item" href="secciones/frases.php">Frases</a>
-          <a class="dropdown-item" href="secciones/zen.php">Zen</a>
-          <a class="dropdown-item" href="secciones/musica.php">Música</a>
+          <a class="dropdown-item" href="/cocina">Cocina</a>
+          <a class="dropdown-item" href="/infantil">Infantil</a>
+          <a class="dropdown-item" href="/frases">Frases</a>
+          <a class="dropdown-item" href="/zen">Zen</a>
+          <a class="dropdown-item" href="/musica">Música</a>
         </div>
       </li>
       <li class="nav-item">
@@ -91,9 +91,9 @@
 			<div class="container">
 			<h1>Contacto</h1>
 			<hr>
-
+				<h3>Cualquier duda o consulta mandanos un mensaje y te responderemos a la brevedad.</h3>
 				<h3>Mitre 170, Rosario, Sante Fe. CP 2000</h3>
-				<h3>123-456-7890  /  jaimevinilos@hotmail.com</h3>
+				<h3>123-456-7890  /  jaimevinilos@gmail.com</h3>
 			<hr>
 			<br>
 			</div>

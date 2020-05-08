@@ -47,11 +47,11 @@
           Categorías
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="../secciones/cocina.php">Cocina</a>
-          <a class="dropdown-item" href="../secciones/infantil.php">Infantil</a>
-          <a class="dropdown-item" href="../secciones/frases.php">Frases</a>
-          <a class="dropdown-item" href="../secciones/zen.php">Zen</a>
-          <a class="dropdown-item" href="../secciones/musica.php">Música</a>
+          <a class="dropdown-item" href="/cocina">Cocina</a>
+          <a class="dropdown-item" href="/infantil">Infantil</a>
+          <a class="dropdown-item" href="/frases">Frases</a>
+          <a class="dropdown-item" href="/zen">Zen</a>
+          <a class="dropdown-item" href="/musica">Música</a>
         </div>
       </li>
       <li class="nav-item">
@@ -79,7 +79,7 @@
 		<div class="row">
 			<div class="producto d-flex justify-content-around d-flex align-items-center">
 					<div class="col-md-6 col-sm-12">
-						<img src="/Imagenes/infantil4.jpg" style="width:100%;">
+						<img src="/Imagenes/infantil2.jpg" style="width:100%;">
 					</div>
 					<div class="col-md-6 col-sm-12">
 						<h3 class="delproducto">Infantil 02</h3>
