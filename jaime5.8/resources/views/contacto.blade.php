@@ -87,32 +87,19 @@
 				<h3>Mitre 170, Rosario, Sante Fe. CP 2000</h3>
 				<h3>123-456-7890  /  jaimevinilos@gmail.com</h3>
 			<br>
-			<div class="contactos1"></div>
-			<div class= "mapa">
-			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d13391.574990812753!2d-60.64012225!3d-32.95381454999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2sar!4v1589210121154!5m2!1ses!2sar" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-			<br>
-			</div>
+			<div class="contactos1">  
+			<iframe class= "mapa" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d13391.574990812753!2d-60.64012225!3d-32.95381454999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses!2sar!4v1589210121154!5m2!1ses!2sar" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+	
+			 <!--formulario-->
 			    <form class="formu1" action="" method="POST"  >
-       
-       <!--formulario-->
-        <input type="text" name="nombre" placeholder="Nombre y apellido" value="" >
-       
-		<input type="email" name="email" placeholder="Email" value="" >
-		
-		<input type="telefono" name="telefono" placeholder="Teléfono" value="" >
-
-		<textarea name="texto" rows="4" cols="60" placeholder=" Mensaje" value="" ></textarea>
-		
-        
-                <input type="submit" name="Enviar" value="Enviar" class="bot">
-          
-            </form>
-       
+				   <input type="text" name="nombre" placeholder="Nombre y apellido" value="" >
+				   <input type="email" name="email" placeholder="Email" value="" >
+				   <input type="telefono" name="telefono" placeholder="Teléfono" value="" >
+				   <textarea name="texto" rows="4" cols="60" placeholder=" Mensaje" value="" ></textarea>
+				   <input type="submit" name="Enviar" value="Enviar" class="bot">
+				</form>
 			</div>
-			
-			
-</div>
-        </div>
+		
 		</section>
 		
 
