@@ -105,7 +105,7 @@
 				<h3><b>¿Cómo se quita? </b></h3>
 				<p>Simplemente despegá una punta y tirá a 90 grados de la pared. Si la pared no estuviera en condiciones es posible que salte la pintura debido al adhesivo. Podés ayudarte aplicando calor con un secador de pelo para lograr aflojar el pegamento.</p>
             <hr>
-              
+               
 			</div>
 		</section>
 
