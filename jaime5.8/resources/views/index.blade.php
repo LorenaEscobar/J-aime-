@@ -81,10 +81,10 @@
       <img class="d-block w-100" src="/Imagenes/banner.png" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="/Imagenes/banner.png" alt="Second slide">
+      <img class="d-block w-100" src="/Imagenes/banner22.png" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="..." alt="Third slide">
+      <img class="d-block w-100" src="/Imagenes/banner33.png" alt="Third slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
